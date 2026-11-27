@@ -1,2 +1,18 @@
-# forsati-web
-Forsati Official Website &amp; Privacy Policy - Zero_One Company
+# تطبيق فرصتي (Forsati) — وظائف وتدريبات حديثي التخرج
+
+الموقع الرسمي لتطبيق **فرصتي (Forsati)** المطوّر من شركة **Zero_One Company** — منصة مجانية للأندرويد تجمع وظائف وتدريبات حديثي التخرج بدون خبرة في تخصصات **الهندسة والحاسوب** محلياً وعالمياً وعن بُعد.
+
+- **الموقع الرسمي (Vercel):** https://forsati-app.vercel.app/
+- **الموقع الاحتياطي (Netlify):** https://forsati-app.netlify.app/
+- **التحميل المباشر للتطبيق (APK):** https://github.com/zero-one-loai/forsati-cdn/releases/latest/download/Forsati-v3.0-Release.apk
+- **سياسة الخصوصية:** https://forsati-app.vercel.app/privacy.html
+
+## التخصصات المدعومة
+- **المسار الحاسوبي:** علوم الحاسوب، هندسة الحاسوب، هندسة البرمجيات، تقنية المعلومات، الأمن السيبراني، نظم المعلومات، علوم البيانات والذكاء الاصطناعي.
+- **المسار الهندسي:** الهندسة الكهربائية، الهندسة الميكانيكية، الهندسة المدنية، الهندسة الكيميائية، الهندسة الصناعية، الهندسة الطبية الحيوية، الميكاترونكس والروبوتات.
+
+## التواصل مع المطوّر — Zero_One Company
+- واتساب: https://wa.me/967775652282
+- تيليجرام: https://t.me/zero_one_loai
+- إنستغرام: https://www.instagram.com/zero_one_loai/
+- البريد الإلكتروني: loaymoad1212@gmail.com
